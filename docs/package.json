@@ -21,7 +21,7 @@
   "overrides": {
     "vite": "^6.4.2",
     "esbuild": "^0.25.12",
-    "postcss": "^8.5.12",
+    "postcss": "^8.5.25",
     "picomatch": "^4.0.4"
   }
 }
